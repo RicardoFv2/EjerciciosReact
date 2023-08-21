@@ -2,7 +2,7 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Contador from "./components/routes/contador";
 import Tareas from "./components/routes/tareas.jsx";
-import Registros from "./components/routes/registros";
+import Registros from "./components/routes/registros.jsx";
 
 const router = createBrowserRouter([
   {
